@@ -1,10 +1,10 @@
-File-Tranfer 
-==============
+File Tranfer Service
+=====================
 
 This project allows a user to simulate a file transfer service with multiple terminals on their local device.
 
-Installation
---------------
+Install Additional Libraries
+--------------------------------
 
 Use the package manager `pip <https://pip.pypa.io/en/stable/>`__ to install bidict.
 
